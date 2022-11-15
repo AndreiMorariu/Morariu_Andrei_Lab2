@@ -53,15 +53,5 @@ namespace Morariu_Andrei_Lab2.Pages.Borrowings
 
             return RedirectToPage("./Index");
         }
-        public async Task OnGetAsync()
-        {
-            if (_context.Borrowing != null)
-            {
-                Borrowing = await _context.Borrowing
-                .Include(b => b.Book)
-                .ThenInclude(b => b.Author)
-                .Include(b => b.Member).ToListAsync();
-            }
-        }
     }
 }

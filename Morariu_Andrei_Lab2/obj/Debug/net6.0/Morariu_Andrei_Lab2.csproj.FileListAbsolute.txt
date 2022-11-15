@@ -262,3 +262,11 @@ C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\obj\Debug\net6.0\
 C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\obj\Debug\net6.0\Morariu_Andrei_Lab2.pdb
 C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\obj\Debug\net6.0\Morariu_Andrei_Lab2.genruntimeconfig.cache
 C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\obj\Debug\net6.0\ref\Morariu_Andrei_Lab2.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\andre\Desktop\Morariu_Andrei_Lab2\Morariu_Andrei_Lab2\obj\Debug\net6.0\Morariu_Andrei_Lab2.MvcApplicationPartsAssemblyInfo.cs
